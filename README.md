@@ -12,7 +12,7 @@ Este repositorio contiene la implementación del algoritmo del **Método de Gaus
 1. Abre una terminal o consola de comandos.
 2. Navega hasta la carpeta donde descargaste o clonaste los archivos.
 3. Compila los archivos fuente con el comando:
-   ```bash
+   ```bash 
   javac Main.java
 
 ## Sistema de ecuaciones de prueba
