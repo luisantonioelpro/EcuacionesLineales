@@ -1,1 +1,1 @@
-# EstructuradeDatos
+# EcuacionesLineales
